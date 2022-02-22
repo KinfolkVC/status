@@ -1,26 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: kinfolkVC # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Kinfolk Onyx Api
+    url: https://api.kinfolk.vc
+    icon: https://onyx.kinfolk.vc/favicon.ico
+  - name: Kinfolk Onyx User
+    url: https://onyx.kinfolk.vc
+    icon: https://onyx.kinfolk.vc/favicon.ico
+  - name: Kinfolk Onyx Admin
+    url: https://admin.kinfolk.vc
+    icon: https://admin.kinfolk.vc/favicon.ico
+  - name: Kinfolk Website
+    url: https://kinfolk.vc
+    icon: https://kinfolk.vc/favicon.ico
+assignees:
+  - faithfulojebiyi
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.kinfolk.vc
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://kinfolk.vc/favicon.ico
+  name: Kinfolk Venture Capital
+  favicon: https://kinfolk.vc/favicon.ico
+  introTitle: "**The Fundraising Process for Africa’s Next-Gen Startups—Fully Digitized"
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/kinfolkVC/status)
   navbar:
     - title: Status
       href: /
