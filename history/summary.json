@@ -40,7 +40,7 @@
     "url": "https://admin.kinfolk.vc",
     "icon": "https://admin.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 307,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "Kinfolk Website",
