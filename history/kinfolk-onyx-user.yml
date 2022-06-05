@@ -1,7 +1,7 @@
 url: https://onyx.kinfolk.vc
-status: up
-code: 200
-responseTime: 539
-lastUpdated: 2022-06-04T23:20:25.513Z
+status: down
+code: 500
+responseTime: 3027
+lastUpdated: 2022-06-05T17:42:43.447Z
 startTime: Tue Feb 22 2022 22:51:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
