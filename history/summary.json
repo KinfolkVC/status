@@ -25,9 +25,9 @@
     "url": "https://onyx.kinfolk.vc",
     "icon": "https://onyx.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-user",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 283,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-06-15": 19,
       "2022-05-17": 15,
       "2022-04-14": 33
@@ -47,7 +48,7 @@
     "url": "https://admin.kinfolk.vc",
     "icon": "https://admin.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -59,6 +60,7 @@
     "timeMonth": 433,
     "timeYear": 506,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-06-30": 19,
       "2022-04-14": 33,
       "2022-03-29": 19,
