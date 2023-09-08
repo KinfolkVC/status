@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 306,
-    "timeDay": 422,
-    "timeWeek": 341,
-    "timeMonth": 292,
-    "timeYear": 305,
+    "time": 305,
+    "timeDay": 446,
+    "timeWeek": 359,
+    "timeMonth": 299,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2022-12-05": 18,
       "2022-11-09": 18
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 93,
-    "timeWeek": 208,
-    "timeMonth": 255,
-    "timeYear": 325,
+    "time": 335,
+    "timeDay": 274,
+    "timeWeek": 229,
+    "timeMonth": 253,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   },
   {
@@ -48,15 +48,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 744,
-    "timeWeek": 284,
-    "timeMonth": 228,
-    "timeYear": 267,
-    "dailyMinutesDown": {
-      "2022-09-08": 31
-    }
+    "timeDay": 197,
+    "timeWeek": 271,
+    "timeMonth": 230,
+    "timeYear": 268,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kinfolk Website",
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 193,
-    "timeDay": 44,
-    "timeWeek": 85,
-    "timeMonth": 116,
+    "timeDay": 164,
+    "timeWeek": 98,
+    "timeMonth": 119,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2022-12-08": 22,
