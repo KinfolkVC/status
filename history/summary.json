@@ -25,18 +25,20 @@
     "url": "https://onyx.kinfolk.vc",
     "icon": "https://onyx.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-user",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 526,
-    "timeWeek": 230,
-    "timeMonth": 225,
+    "timeDay": 363,
+    "timeWeek": 226,
+    "timeMonth": 224,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-29": 0
+    }
   },
   {
     "name": "Kinfolk Onyx Admin",
