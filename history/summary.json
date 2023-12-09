@@ -4,19 +4,19 @@
     "url": "https://api.kinfolk.vc",
     "icon": "https://onyx.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 452,
-    "timeWeek": 307,
-    "timeMonth": 279,
-    "timeYear": 303,
+    "timeDay": 442,
+    "timeWeek": 322,
+    "timeMonth": 284,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-12-09": 0
+      "2023-12-09": 18
     }
   },
   {
