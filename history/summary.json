@@ -6,17 +6,17 @@
     "slug": "kinfolk-onyx-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 306,
-    "timeDay": 408,
-    "timeWeek": 324,
-    "timeMonth": 286,
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
+    "time": 307,
+    "timeDay": 410,
+    "timeWeek": 340,
+    "timeMonth": 290,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-12-09": 29
+      "2023-12-09": 18
     }
   },
   {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 191,
-    "timeWeek": 184,
-    "timeMonth": 183,
+    "timeDay": 208,
+    "timeWeek": 150,
+    "timeMonth": 184,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2023-09-29": 19
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 277,
-    "timeWeek": 167,
-    "timeMonth": 225,
-    "timeYear": 246,
+    "timeDay": 103,
+    "timeWeek": 156,
+    "timeMonth": 223,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   },
   {
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 166,
-    "timeDay": 136,
-    "timeWeek": 133,
-    "timeMonth": 135,
-    "timeYear": 144,
+    "timeDay": 128,
+    "timeWeek": 146,
+    "timeMonth": 132,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2023-09-13": 16,
       "2023-09-12": 20
