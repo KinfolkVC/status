@@ -1,7 +1,7 @@
 url: https://admin.kinfolk.vc
-status: up
-code: 200
-responseTime: 195
-lastUpdated: 2024-01-06T23:16:17.881Z
+status: down
+code: 500
+responseTime: 3134
+lastUpdated: 2024-01-07T15:11:39.490Z
 startTime: 2022-02-22T22:51:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
