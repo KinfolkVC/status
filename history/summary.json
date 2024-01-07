@@ -44,19 +44,19 @@
     "url": "https://admin.kinfolk.vc",
     "icon": "https://admin.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-admin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 1665,
-    "timeWeek": 608,
-    "timeMonth": 281,
-    "timeYear": 241,
+    "timeDay": 1164,
+    "timeWeek": 558,
+    "timeMonth": 278,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-01-07": 0
+      "2024-01-07": 13
     }
   },
   {
