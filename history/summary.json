@@ -24,19 +24,19 @@
     "url": "https://onyx.kinfolk.vc",
     "icon": "https://onyx.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-user",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 263,
-    "timeDay": 488,
-    "timeWeek": 226,
-    "timeMonth": 256,
-    "timeYear": 237,
+    "timeDay": 256,
+    "timeWeek": 201,
+    "timeMonth": 248,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-03-16": 0,
+      "2024-03-16": 12,
       "2023-09-29": 19
     }
   },
@@ -47,9 +47,9 @@
     "slug": "kinfolk-onyx-admin",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 245,
     "timeDay": 185,
@@ -57,7 +57,7 @@
     "timeMonth": 217,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 12
     }
   },
   {
@@ -65,9 +65,9 @@
     "url": "https://kinfolk.vc",
     "icon": "https://kinfolk.vc/favicon.ico",
     "slug": "kinfolk-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -77,6 +77,7 @@
     "timeMonth": 153,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2023-09-13": 16,
       "2023-09-12": 20
     }
