@@ -4,7 +4,7 @@
     "url": "https://api.kinfolk.vc",
     "icon": "https://onyx.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 236,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2024-04-22": 0,
       "2023-12-09": 18
     }
   },
