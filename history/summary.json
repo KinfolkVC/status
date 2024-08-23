@@ -25,9 +25,9 @@
     "url": "https://onyx.kinfolk.vc",
     "icon": "https://onyx.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-user",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 287,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2024-08-23": 0,
       "2023-09-29": 19
     }
   },
