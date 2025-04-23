@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 504,
-    "timeDay": 652,
-    "timeWeek": 668,
-    "timeMonth": 573,
-    "timeYear": 586,
-    "dailyMinutesDown": {
-      "2024-04-23": 143
-    }
+    "time": 506,
+    "timeDay": 926,
+    "timeWeek": 729,
+    "timeMonth": 589,
+    "timeYear": 580,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kinfolk Onyx User",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 280,
-    "timeDay": 554,
-    "timeWeek": 252,
-    "timeMonth": 289,
-    "timeYear": 291,
+    "timeDay": 838,
+    "timeWeek": 339,
+    "timeMonth": 306,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2024-09-11": 34,
       "2024-08-23": 36
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 231,
-    "timeWeek": 329,
-    "timeMonth": 302,
+    "timeDay": 105,
+    "timeWeek": 294,
+    "timeMonth": 296,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 188,
-    "timeDay": 64,
-    "timeWeek": 197,
-    "timeMonth": 228,
-    "timeYear": 202,
+    "time": 189,
+    "timeDay": 768,
+    "timeWeek": 263,
+    "timeMonth": 242,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2024-10-22": 23,
       "2024-10-18": 28,
