@@ -6,16 +6,18 @@
     "slug": "kinfolk-onyx-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
+    "time": 587,
     "timeDay": 288,
     "timeWeek": 401,
     "timeMonth": 521,
-    "timeYear": 600,
-    "dailyMinutesDown": {}
+    "timeYear": 601,
+    "dailyMinutesDown": {
+      "2025-08-12": 0
+    }
   },
   {
     "name": "Kinfolk Onyx User",
