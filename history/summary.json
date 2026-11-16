@@ -5,18 +5,19 @@
     "icon": "https://onyx.kinfolk.vc/favicon.ico",
     "slug": "kinfolk-onyx-api",
     "status": "down",
-    "uptime": "73.38%",
+    "uptime": "73.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 354,
-    "timeDay": 149,
-    "timeWeek": 158,
-    "timeMonth": 159,
+    "time": 353,
+    "timeDay": 64,
+    "timeWeek": 156,
+    "timeMonth": 155,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2026-11-15": 22,
+      "2026-11-16": 26,
+      "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
       "2026-11-12": 1440,
@@ -379,8 +380,7 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
-      "2025-11-17": 1440,
-      "2025-11-16": 1440
+      "2025-11-17": 1440
     }
   },
   {
@@ -395,12 +395,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 487,
-    "timeDay": 204,
-    "timeWeek": 301,
-    "timeMonth": 469,
+    "timeDay": 201,
+    "timeWeek": 318,
+    "timeMonth": 446,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2025-11-16": 37,
       "2026-03-11": 40,
       "2026-05-19": 67
     }
@@ -417,12 +416,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 490,
-    "timeDay": 201,
-    "timeWeek": 463,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "timeDay": 267,
+    "timeWeek": 369,
+    "timeMonth": 501,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-11-16": 37,
       "2026-03-11": 40,
       "2026-05-19": 66
     }
@@ -439,12 +437,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 407,
-    "timeDay": 478,
-    "timeWeek": 433,
-    "timeMonth": 491,
+    "timeDay": 310,
+    "timeWeek": 427,
+    "timeMonth": 495,
     "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-11-16": 37,
       "2026-02-14": 89,
       "2026-04-13": 95,
       "2026-04-18": 44,
